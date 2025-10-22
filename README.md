@@ -2,11 +2,6 @@
 
 > A passionate backend developer package built with Node.js & NestJS
 
-## Installation
-```bash
-npm install @mh/developer
-```
-
 ## Usage
 ```javascript
 import MH from 'mh.js';
@@ -17,7 +12,7 @@ const developer = new MH({
   health: '∞'
 });
 
-developer.develop(); // 🚀
+developer.develop(); 
 ```
 
 ## Features
