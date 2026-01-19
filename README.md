@@ -8,7 +8,7 @@ import MH from 'mh.js';
 
 const developer = new MH({
   stack: ['Node.js', 'NestJS', 'TypeScript'],
-  experience: 'since 2018',
+  experience: 'since 2019',
   health: '∞'
 });
 
